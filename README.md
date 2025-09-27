@@ -7,24 +7,24 @@ The Criminal Detection System is an AI-powered security solution that identifies
 
 🔑 Features
 
-Facial recognition using OpenCV / ML models
+- Facial recognition using OpenCV / ML models
 
-Centralized criminal database integration
+- Centralized criminal database integration
 
-Real-time CCTV monitoring and face matching
+- Real-time CCTV monitoring and face matching
 
-Instant alert system for law enforcement
+- Instant alert system for law enforcement
 
 ⚙️ Tech Stack
 
-Backend: Java Spring Boot / Python
+- Backend: Java Spring Boot / Python
 
-Database: MySQL / MongoDB
+- Database: MySQL / MongoDB
 
-Libraries: OpenCV, Face Recognition APIs
+- Libraries: OpenCV, Face Recognition APIs
 
 🔮 Future Scope
 
-Integration with biometric data (fingerprints, iris scans)
+- Integration with biometric data (fingerprints, iris scans)
 
-Cloud-based monitoring for smart cities
+- Cloud-based monitoring for smart cities
